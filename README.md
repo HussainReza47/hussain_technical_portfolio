@@ -86,26 +86,26 @@ Expected December 2026
 
 Cybersecurity
 
-├── Snort IDS
+├── Snort IDS (Empty)
 
-├── RFID Detection
+├── RFID Detection (Populated)
 
-├── Phishing Analysis
+├── Phishing Analysis (Empty)
 
-├── Penetration Testing Labs
+├── Penetration Testing Labs (Empty)
 
-└── Security Projects
+└── Security Projects (Empty)
 
 
 Programming
 
-├── Python
+├── Python (Empty)
 
-├── Java
+├── Java (Empty)
 
-├── C
+├── C (Empty)
 
-└── Data Structures
+└── Data Structures (Empty)
 
 
 =======
@@ -113,33 +113,33 @@ Programming
 
 Networking
 
-├── TCP/IP
+├── TCP/IP (Empty)
 
-├── Client/Server
+├── Client/Server (Empty)
 
-├── Network Labs
+├── Network Labs (Empty)
 
-└── Packet Analysis
+└── Packet Analysis (Empty)
 
 
 Systems
 
-├── Linux
+├── Linux (Empty)
 
-├── Windows
+├── Windows (Empty)
 
-├── Memory Management
+├── Memory Management (Empty)
 
-└── Computer Architecture
+└── Computer Architecture (Empty)
 
 
 Other Projects
 
-├── Academic Projects
+├── Academic Projects (Empty)
 
-├── Research
+├── Research (Empty)
 
-└── Experiments
+└── Experiments (Empty)
 
 
 Each project may include source code, documentation, test results, screenshots, and other supporting materials.
